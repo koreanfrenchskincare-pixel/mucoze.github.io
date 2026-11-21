@@ -1,4 +1,4 @@
----
+I don’t have PhD on IT, be clear ---
 title: "Linked List"
 date: 2017-09-10 23:58 -05:00
 category: C 
